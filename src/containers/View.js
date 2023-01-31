@@ -10,6 +10,7 @@ const mapStateToProps = state => {
     timer: state.timer.timer
   };
 };
+
 const mapDispatchToProps = dispatch => {
   return {
     setMsg: message => dispatch(setMessage(message)),
