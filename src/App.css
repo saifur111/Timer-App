@@ -1,7 +1,15 @@
 .App {
   text-align: center;
 }
-
+.Mid{
+  top:25vh;
+  left:25vw;
+  height: 50vh;
+  width: 50vw;
+  background-color: #1b1c1e;
+  position: absolute;
+  border-radius: 20px;
+  }
 .App-logo {
   height: 40vmin;
   pointer-events: none;
